@@ -1,4 +1,4 @@
----
+
 title: Firefox 116 for developers
 slug: Mozilla/Firefox/Releases/116
 page-type: firefox-release-notes
